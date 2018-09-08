@@ -1,0 +1,9 @@
+Heroes of Pymoli Data Analysis
+
+Enclosed are observed trends in the data provided:
+
+1: The large majority of players are male (84%), but the female players purchased higher-value items ($4.47 compared to $4.07 for males). The 11 players who did not disclose their gender might skew the results, however, as their average purchase price was high ($4.56)
+
+2: The age distribution of players was very close to a bell-curve in shape, with the age group of 20-24 the clear top of that curve (44.79%). The number of purchases made by players under the age of 10 (23) was a bit surprising.
+
+3: There was a large variation in the price the most popular items ($1.02 to $4.90). This is an opportunity to raise the price of the inexpensive item to increase their profits.
